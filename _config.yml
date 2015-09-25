@@ -1,0 +1,14 @@
+# Site settings
+title: Grand Rapids Web Development
+email: kevindgreene+grwebdev@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  We are a group of web developers in the Grand Rapids, MI area.
+  We discuss all parts of developing for the web, from HTML, CSS, and Javascript
+  to design, user experience, usability, accessibility, and tools.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: grwebdev
+github_username:  grwebdev
+
+# Build settings
+markdown: kramdown
